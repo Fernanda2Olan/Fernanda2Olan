@@ -3,7 +3,9 @@ I'm a computer systems engineering student :computer:
 
 ## About me
 :pushpin: I really like to learn new things!
+
 :notebook: I'm currently JS and some Backend 
+
 :baseball: I like baseball
 
 
