@@ -1,12 +1,12 @@
-## Hi there! Welcome👋
-I'm a computer systems engineering student :computer:
+## Hola, Soy Fernanda Olan👋
+Soy estudiante de la carrera de Ingeniería en Sistemas Computacionales :computer:
 
-## About me
-:pushpin: I really like to learn new things!
+## Sobre mí 
+:pushpin: Me gusta mucho aprender cosas nuevas!
 
-:notebook: I'm currently JS and some Backend 
+:notebook: Actualmente estoy aprendiendo algo de JS con TypesCript y Backend
 
-:baseball: I like baseball
+:baseball: Me gusta el Béisbol
 
 
 <!--
