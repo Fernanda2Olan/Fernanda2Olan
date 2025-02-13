@@ -8,6 +8,8 @@ Soy estudiante de la carrera de Ingeniería en Sistemas Computacionales :compute
 
 :baseball: Me gusta el Béisbol
 
+![Narset](https://github.com/user-attachments/assets/ec503015-9c7f-4384-9cb1-e38f9f445133)
+
 
 <!--
 **Fernanda2Olan/Fernanda2Olan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
