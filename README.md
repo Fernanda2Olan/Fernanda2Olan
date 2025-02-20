@@ -1,4 +1,4 @@
-## Hola, Soy Fernanda Olan👋
+# Hola, Soy Fernanda Olan👋
 Soy estudiante de la carrera de Ingeniería en Sistemas Computacionales :computer:
 
 ## Sobre mí 
