@@ -4,7 +4,7 @@ Soy estudiante de la carrera de Ingeniería en Sistemas Computacionales :compute
 ## Sobre mí 
 :pushpin: Me gusta mucho aprender cosas nuevas!
 
-:notebook: Actualmente estoy aprendiendo algo de JS con TypesCript y Backend
+:notebook: Actualmente estoy aprendiendo algo de JS con TypeScript y Backend
 
 :baseball: Me gusta el Béisbol
 
